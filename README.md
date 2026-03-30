@@ -37,3 +37,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zkskl&show_icons=true&locale=en" alt="zkskl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zkskl&" alt="zkskl" /></p>
+
+<h3 align="center">🐍 Contribution Snake</h3>
+<p align="center"><img src="https://raw.githubusercontent.com/zkskl/zkskl/output/github-contribution-grid-snake.svg" alt="snake animation" /></p>
