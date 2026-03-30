@@ -30,3 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zkskl&show_icons=true&theme=tokyonight&locale=en" alt="zkskl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zkskl&theme=tokyonight" alt="zkskl" /></p>
+
+<h3 align="center">🟡 Pac-Man Contribution Graph</h3>
+<p align="center"><img src="https://raw.githubusercontent.com/zkskl/zkskl/output/pacman-contribution-graph.svg" alt="pacman contribution graph" /></p>
